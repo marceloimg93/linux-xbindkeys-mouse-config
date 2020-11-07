@@ -24,7 +24,7 @@ Create xbindkeys config
 
 ```xbindkeys --defaults > $HOME/.xbindkeysrc```
 
-Edit .xbindkeysrc
+OR use the .xbindkeysrc at this repository
 
 `
 # double click mx ergo mouse
