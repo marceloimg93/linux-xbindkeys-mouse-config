@@ -68,7 +68,7 @@
   b:8+Release
 
 # tripple click mx ergo mouse
-"xte 'mouseclick 1' 'mouseclick 1' 'mouseclick 1'"
+"xte 'mouseclick 1' 'mouseclick 1' && sleep 0.06 && xte 'mouseclick 1'"
   b:9+Release
 
 
